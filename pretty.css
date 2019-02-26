@@ -1,0 +1,13 @@
+body {
+  background-color: pink;
+  font-family: verdana;
+  text-align: center;
+}
+
+img {
+  width: 15%;
+}
+
+img:hover {
+  opacity: .7;
+}
